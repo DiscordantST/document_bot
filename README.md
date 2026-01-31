@@ -16,7 +16,6 @@ Telegram бот для хранения и отслеживания докуме
 ### 1. Клонирование и зависимости
 
 ```bash
-git@github.com:DiscordantST/document_bot.git
 cd docs_bot
 pip install -r requirements.txt
 ```
@@ -35,7 +34,10 @@ BOT_TOKEN = "your_bot_token_here"
 ```
 
 Или создайте файл в корне проекта `.env`:
+```
 BOT_TOKEN = "your_bot_token_here"
+```
+
 ### 3. Запуск
 
 ```bash
