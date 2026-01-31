@@ -52,6 +52,7 @@ docs_bot/
 ├── database.py         # Работа с SQLite
 ├── utils.py            # Вспомогательные функции
 ├── jobs.py             # Фоновые задачи (напоминания)
+├── main.py 
 ├── handlers/
 │   ├── __init__.py
 │   ├── commands.py     # Обработчики команд
